@@ -7,22 +7,22 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
-global.footer = "Deffbotz ~ Deff"
-global.fake = "Deffbotz ~ Deff"
-global.namebot = "DEFFBOTZ - DEFF"
-global.packname = "Buatan Siapa? Buatan Daffa\nMau nomor nya? 089501060783\nOrangnya ganteng dan baik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-global.packname2 = "BY Daffa ~ Yudhistira"
-global.author = "Daffa"
-global.email = "dyudhistira51@gmail.com"
-global.game = "Deffbotz Game"
-global.nameown = "©DEFF"
-global.resultwibu = "Nih kak Resultnya, Dasar Wibu"
-global.nameyt = "DEFFBOTZZ"
-global.instagram = "https://instagram.com/deff.xyz"
+global.owner = ['6283811034750','6283811034750','18312576749']
+global.footer = "Wabotz ~ Md"
+global.fake = "Wabotz ~ Md"
+global.namebot = "WABOTZ - MD"
+global.packname = "Buatan Siapa? Buatan Wabot\nMau nomor nya? 083811034750\nOrangnya ganteng dan baik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+global.packname2 = "Wabotz ~ Md"
+global.author = "Wabotz"
+global.email = "farrrgf300@gmail.com"
+global.game = "Wabotz Game"
+global.nameown = "©Wabotz"
+global.resultwibu = "Dasar Wibu"
+global.nameyt = "WABOTZ"
+global.instagram = "https://instagram.com/fardev78"
 global.sessionName = "session"
-global.github = "https://github.com/DEFF-Y"
-global.done = "Done :)"
+global.github = "https://github.com/Fardevv2"
+global.done = "Nih"
 global.linkgrupss = "https://chat.whatsapp.com/C0y1iHxWw9n8odBcK3Rs5z"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -34,7 +34,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: '⏳ Prosess...',
     linkm: 'Linknya Mana Kak?',
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
